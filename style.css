@@ -4,3 +4,7 @@ a.top-blog{
 .h-box{
     display: flex;
 }
+
+.footer .container:before{
+    background: unset;
+}

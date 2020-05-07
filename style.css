@@ -4,7 +4,7 @@ a.top-blog{
 .h-box{
     display: flex;
 }
-.s-title__cnt{
+.s-title__cnt span{
     font-family: Fira Sans;
     font-style: normal;
     font-weight: 500;

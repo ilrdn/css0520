@@ -4,6 +4,14 @@ a.top-blog{
 .h-box{
     display: flex;
 }
+.s-title__cnt{
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 110%;
+    color: #FFFFFF;
+}
 .footer .container{
     box-shadow: unset;
     background-image: unset;

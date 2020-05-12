@@ -1,4 +1,4 @@
-a.top-blog, .h-desc{
+a.top-blog, .h-desc, .section__cnt{
     display: none !important;
 }
 .h-box{

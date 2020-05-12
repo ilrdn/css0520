@@ -1,4 +1,4 @@
-a.top-blog{
+a.top-blog, .h-desc{
     display: none !important;
 }
 .h-box{
@@ -12,7 +12,7 @@ a.top-blog{
     line-height: 110%;
     color: #FFFFFF;
 }
-.footer .container{
+.footer .container, .sidebar .menu{
     box-shadow: unset;
     background-image: unset;
     background-color: #1A1E21;

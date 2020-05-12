@@ -19,10 +19,10 @@ a.top-blog, .h-desc{
     border: 1px solid #8E24AA;
     border-radius: 4px;
 }
-.footer .container:before{
+.footer .container:before, .sidebar .menu::before{
     background: unset;
 }
-.footer .container::after{
+.footer .container::after, .sidebar .menu::after{
     background: unset;
 }
 .f-nav ul:before{

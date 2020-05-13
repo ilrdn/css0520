@@ -49,3 +49,8 @@ a.top-blog, .h-desc{
     border: 0;
     background: unset;
 }
+.hdr{
+    background: #1A1E21;
+    height: 80px;
+    border-bottom: 1px solid #373D42;
+}

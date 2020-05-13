@@ -44,7 +44,7 @@ a.top-blog, .h-desc{
     width: 32px;
     height: 32px;
 }
-.game-select .game-select__top .game-select__item{
+.game-select{
     border: 0;
     background: unset;
 }

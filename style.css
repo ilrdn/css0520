@@ -30,3 +30,21 @@ a.top-blog, .h-desc{
     height: 1px;
     background: #8E24AA;
 }
+.game-select .game-select__name{
+    color: #039BE5;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+}
+.game-select .game-select__tdl{
+    border: 1px solid #697077;
+    border-radius: 39px;
+    width: 32px;
+    height: 32px;
+}
+.game-select .game-select__top .game-select__item{
+    border: 0;
+    background: unset;
+}

@@ -59,3 +59,7 @@ a.top-blog, .h-desc{
     display: none;/* 
     background-image: url(/img/BG.svg) !important; */
 }
+body{
+    background-image: url(/img/BG.svg);
+    background-position: center;
+}

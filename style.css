@@ -58,6 +58,6 @@ a.top-blog, .h-desc{
 .bg-page{
     background-image: url(https://github.com/ilrdn/css0520/blob/master/img/BG.svg) !important;
 }
-.wrapper{
+.wrapper, footer{
     background: rgba(26, 30, 33, 0.8);
 }

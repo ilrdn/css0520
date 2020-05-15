@@ -51,7 +51,7 @@ a.top-blog, .h-desc{
     background: unset;
 }
 .hdr{
-    background: #1A1E21;
+    background: #1A1E21 !important;
     height: 80px;
     border-bottom: 1px solid #373D42;
 }

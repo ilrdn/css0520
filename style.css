@@ -17,8 +17,8 @@ a.top-blog, .h-desc{
     background-image: unset;
     background-color: #1A1E21;
     border: 1px solid #8E24AA;
-    border-radius: 4px;
-    margin-top: 24px;
+    border-radius: 4px;/* 
+    margin-top: 24px; */
 }
 .footer .container:before, .sidebar .menu::before{
     background: unset;

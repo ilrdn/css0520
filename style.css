@@ -54,3 +54,6 @@ a.top-blog, .h-desc{
     height: 80px;
     border-bottom: 1px solid #373D42;
 }
+.bg-page{
+    background-image: url(/img/BG.svg);
+}

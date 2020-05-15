@@ -55,9 +55,9 @@ a.top-blog, .h-desc{
     height: 80px;
     border-bottom: 1px solid #373D42;
 }
-.bg-page{
+/* .bg-page{
     background-image: url(https://github.com/ilrdn/css0520/blob/master/img/BG.svg) !important;
-}
+} */
 .wrapper, footer, .f-nav{
     background: rgba(26, 30, 33, 0.8);
 }

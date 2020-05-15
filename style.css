@@ -60,6 +60,6 @@ a.top-blog, .h-desc{
     background-image: url(/img/BG.svg) !important; */
 }
 body{
-    background-image: url(/img/BG.svg);
+    background-image: url(https://github.com/ilrdn/css0520/blob/master/img/BG.svg) !important;
     background-position: center;
 }

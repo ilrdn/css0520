@@ -56,5 +56,6 @@ a.top-blog, .h-desc{
     border-bottom: 1px solid #373D42;
 }
 .bg-page{
-    background-image: url(/img/BG.svg);
+    display: none;/* 
+    background-image: url(/img/BG.svg) !important; */
 }

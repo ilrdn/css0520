@@ -56,10 +56,5 @@ a.top-blog, .h-desc{
     border-bottom: 1px solid #373D42;
 }
 .bg-page{
-    display: none;/* 
-    background-image: url(/img/BG.svg) !important; */
-}
-body{
     background-image: url(https://github.com/ilrdn/css0520/blob/master/img/BG.svg) !important;
-    background-position: center;
 }

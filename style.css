@@ -183,10 +183,9 @@ a.top-blog, .h-desc{
 }
 .h-space{
     height: 24px;
-    /* margin-left: 6px;
-    margin-right: 16px; */
     margin-top: 27px;
-    border: 1px solid #373D42;
+    width: 2px;
+    background-color: #373D42;
 }
 .h-search{
     width: 24px;

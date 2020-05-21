@@ -64,6 +64,9 @@ a.top-blog, .h-desc{
 .wrapper, footer, .f-nav, .bottom-bl, .bottom-last{
     background: rgba(26, 30, 33, 0.8);
 }
+.bottom-last{
+    border-top: 1px solid#8E24AA !important;
+}
 ._lazy{
     display: none;
 }

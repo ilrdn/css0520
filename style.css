@@ -202,3 +202,8 @@ a.top-blog, .h-desc{
 .minicart._loaded {
     background: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/Cart.svg) 36px 14px no-repeat !important;
 }
+.minicart .cart-count{
+    background: #8E24AA;
+    top: -10px;
+    color: white;
+}

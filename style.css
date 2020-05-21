@@ -61,6 +61,6 @@ a.top-blog, .h-desc{
 .wrapper, footer, .f-nav{
     background: rgba(26, 30, 33, 0.8);
 }
-_lazy{
+._lazy{
     display: none;
 }

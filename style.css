@@ -106,3 +106,28 @@ a.top-blog, .h-desc{
     line-height: 120%;
     color: #F2F4F8;
 }
+/* header */
+
+.h-cc{
+    width: 260px;
+    background-image: url(/img/icons/logo.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.h-cc img{
+    display: block;
+    margin-top: 26px;
+    margin-left: 50px;
+}
+.h-cc h5{
+    margin-top: 0;
+    margin-left: 50px;
+    color: #9FA5AD;
+}
+.h-cr{
+    margin-top: 17px;
+    width: 253px;
+    height: 40px;
+    background: #202529;
+    border-radius: 38px;
+}

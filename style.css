@@ -64,7 +64,7 @@ a.top-blog, .h-desc{
 ._lazy{
     display: none;
 }
-.s-title .s-title__cnt{
+.s-title .s-title__cnt span{
     color: white;
     font-family: Fira Sans;
     font-style: normal;

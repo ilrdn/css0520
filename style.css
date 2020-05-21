@@ -131,3 +131,8 @@ a.top-blog, .h-desc{
     background: #202529;
     border-radius: 38px;
 }
+.h-center{
+    width: 690px;
+    display: flex;
+    justify-content: space-between;
+}

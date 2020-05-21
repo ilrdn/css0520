@@ -199,3 +199,6 @@ a.top-blog, .h-desc{
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/EU.svg);
     margin-top: 29px;
 }
+.minicart._loaded {
+    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/Cart.svg);
+}

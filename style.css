@@ -81,3 +81,19 @@ a.top-blog, .h-desc{
 .sld, ._sales{
     display: none !important;
 }
+.form-control{
+    padding: 0;
+    padding-top: 12px;
+    padding-left: 16px;
+    height: 28px;
+    background-color: #202529;
+    border: 1px solid #373D42;
+    border-radius: 4px;
+    outline: 0;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 120%;
+    color: #F2F4F8;
+}

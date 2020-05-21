@@ -135,7 +135,10 @@ a.top-blog, .h-desc{
     color: #F2F4F8;
 }
 /* header */
-
+.hdr .row{
+    display: flex;
+    justify-content: space-between;
+}
 .h-cc{
     width: 260px;
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/logo.svg);

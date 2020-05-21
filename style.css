@@ -80,6 +80,7 @@ a.top-blog, .h-desc{
     font-weight: 500;
     font-size: 32px;
     line-height: 110%;
+    text-shadow: unset;
 }
 .s-title .s-title__sep span{
     width: 127px;

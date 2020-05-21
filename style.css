@@ -62,7 +62,7 @@ a.top-blog, .h-desc{
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/BG.svg) !important;
 }
 .wrapper, footer, .f-nav, .bottom-b1-wrap, .bottom-last{
-    background: rgba(26, 30, 33, 0.8);
+    background: rgba(26, 30, 33, 0.8) !important;
 }
 .bottom-b1-wrap{
     width: 100%;

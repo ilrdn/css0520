@@ -77,3 +77,6 @@ a.top-blog, .h-desc{
     background-color:#9FA5AD;
     height: 1px;
 }
+owl-carousel{
+    display: none;
+}

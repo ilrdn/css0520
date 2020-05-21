@@ -54,6 +54,7 @@ a.top-blog, .h-desc{
     background: #1A1E21 !important;
     height: 80px;
     border-bottom: 1px solid #373D42;
+    margin-bottom: 24px;
 }
 /* .bg-page{
     background-image: url(https://github.com/ilrdn/css0520/blob/master/img/BG.svg) !important;
@@ -78,5 +79,5 @@ a.top-blog, .h-desc{
     height: 1px;
 }
 .sld, ._sales{
-    display: none;
+    display: none !important;
 }

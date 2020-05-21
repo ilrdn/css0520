@@ -1,3 +1,31 @@
+h3{
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 110%;
+}
+h4{
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 110%;
+}
+h5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+}
+h6{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 140%;
+}
 a.top-blog, .h-desc{
     display: none !important;
 }
@@ -135,4 +163,12 @@ a.top-blog, .h-desc{
     width: 690px;
     display: flex;
     justify-content: space-between;
+}
+.h-cl{
+    color: #B9BFC7;
+    margin-top: 14px;
+}
+.h-cl h5{
+    margin-top: 5px;
+    margin-bottom: 0;
 }

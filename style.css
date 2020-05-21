@@ -138,7 +138,7 @@ a.top-blog, .h-desc{
 
 .h-cc{
     width: 260px;
-    background-image: url(/img/icons/logo.svg);
+    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/logo.svg);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -188,12 +188,12 @@ a.top-blog, .h-desc{
 .h-search{
     width: 24px;
     height: 24px;
-    background-image: url(/img/icons/search.svg);
+    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/search.svg);
     margin-top: 29px;
 }
 .h-flag{
     width: 24px;
     height: 24px;
-    background-image: url(/img/icons/EU.svg);
+    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/EU.svg);
     margin-top: 29px;
 }

@@ -172,3 +172,6 @@ a.top-blog, .h-desc{
     margin-top: 5px;
     margin-bottom: 0;
 }
+.t-cnt__full{
+    display: none;
+}

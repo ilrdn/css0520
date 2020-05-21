@@ -176,5 +176,24 @@ a.top-blog, .h-desc{
     display: none;
 }
 .hdr-i._temp-1 {
-    width: 277px;
+    width: 250px;
+}
+.h-space{
+    height: 24px;
+    /* margin-left: 6px;
+    margin-right: 16px; */
+    margin-top: 27px;
+    border: 1px solid #373D42;
+}
+.h-search{
+    width: 24px;
+    height: 24px;
+    background-image: url(/img/icons/search.svg);
+    margin-top: 29px;
+}
+.h-flag{
+    width: 24px;
+    height: 24px;
+    background-image: url(/img/icons/EU.svg);
+    margin-top: 29px;
 }

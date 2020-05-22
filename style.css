@@ -192,6 +192,10 @@ a.top-blog, .h-desc{
     height: 24px;
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/search.svg);
     margin-top: 29px;
+    position: relative;
+}
+.search-box{
+    position: absolute;
 }
 .h-flag{
     width: 24px;

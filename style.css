@@ -313,3 +313,7 @@ a.top-blog, .h-desc{
     flex-grow: 0.5;
     width: 30px;
 }
+.hdr-reg img{
+    width: 24px;
+    height: 24px;
+}

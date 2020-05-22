@@ -248,7 +248,11 @@ a.top-blog, .h-desc{
 }
 .review-left{
     display: flex;
+    justify-content: space-between;
     width: 100%;
+}
+.trustpilot_wrapper, .avr_rating{
+    display: none;
 }
 .review-right{
     width: 100%;

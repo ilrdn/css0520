@@ -316,4 +316,5 @@ a.top-blog, .h-desc{
 .hdr-reg .menu-i__img img{
     width: 24px;
     height: 24px;
+    transform: translateY(27px);
 }

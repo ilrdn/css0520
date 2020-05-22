@@ -292,6 +292,6 @@ a.top-blog, .h-desc{
     background-position: center;
     background-repeat: no-repeat;
 }
-/* .t-cnt__i a._whatsapp{
+.t-cnt__i a._whatsapp{
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/wa-icon.svg) !important;
-} */
+} 

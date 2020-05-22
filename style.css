@@ -278,4 +278,8 @@ a.top-blog, .h-desc{
     font-size: 12px;
     line-height: 120%;
     color: #868D95;
+    margin-bottom: 20px;
+}
+.t-cnt{
+    width: 260px;
 }

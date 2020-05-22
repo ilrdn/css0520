@@ -280,7 +280,8 @@ a.top-blog, .h-desc{
     color: #868D95;
 }
 .support span{
-    padding-bottom: 20px;
+    display: block;
+    transform: translate(4px, -12px);
 }
 .t-cnt{
     width: 260px;

@@ -196,6 +196,8 @@ a.top-blog, .h-desc{
 }
 .search-box{
     position: absolute;
+    top: -12px;
+    left: -274px;
 }
 .search-box input{
     width: 253px;
@@ -250,11 +252,13 @@ a.top-blog, .h-desc{
     width: 100%;
 }
 .game-select.open .game-select__list{
-    color: #D5D9E0 !important;
+    color: #D5D9E0;
     border: 0;
 }
 .game-select.open .game-select__top, .game-select.open .game-select__list{
     background-color: #1A1E21;
+}
+.game-select.open .game-select__top{
     color: #039BE5;
 }
 .game-select .game-select__top .game-select__item{

@@ -268,4 +268,10 @@ a.top-blog, .h-desc{
 }
 .support{
     display: inline-block;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 120%;
+    color: #868D95;
 }

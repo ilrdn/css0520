@@ -207,3 +207,14 @@ a.top-blog, .h-desc{
     top: -10px;
     color: white;
 }
+.minicart .amount {
+    position: absolute;
+    top: 25px;
+    left: 7px;
+    color: #F2F4F8;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+}

@@ -227,3 +227,13 @@ a.top-blog, .h-desc{
     line-height: 140%;
     text-align: left;
 }
+.reviews-all{
+    display: none;
+}
+.review-left{
+    display: flex;
+    width: 100%;
+}
+.review-right{
+    width: 100%;
+}

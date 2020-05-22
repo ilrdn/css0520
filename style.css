@@ -218,3 +218,12 @@ a.top-blog, .h-desc{
     font-size: 14px;
     line-height: 140%;
 }
+.read-more-button{
+    color: #039BE5;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: left;
+}

@@ -294,17 +294,17 @@ a.top-blog, .h-desc{
 }
 .t-cnt__i a._whatsapp{
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/wa-icon.svg) !important;
-    background-position: unset;
+    background-position: center;
 } 
 .t-cnt__i a._discord{
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/d-icon.svg) !important;
-    background-position: unset;
+    background-position: center;
 }
 .t-cnt__i a._skype{
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/s-icon.svg) !important;
-    background-position: unset;
+    background-position: center;
 }
 .t-cnt__i a._mail{
     background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/mail-icon.svg) !important;
-    background-position: unset;
+    background-position: center;
 }

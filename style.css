@@ -63,7 +63,7 @@ a.top-blog, .h-desc{
     background: #8E24AA;
 }
 .game-select .game-select__name{
-    color: #039BE5;
+    /* color: #039BE5; */
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
@@ -243,4 +243,7 @@ a.top-blog, .h-desc{
 }
 .game-select.open .game-select__top, .game-select.open .game-select__list{
     background-color: #1A1E21;
+}
+.game-select .game-select__top .game-select__item{
+    background: unset;
 }

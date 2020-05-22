@@ -289,23 +289,23 @@ a.top-blog, .h-desc{
 .new-logo{
     width: 260px;
     height: 80px;
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/К•©™4.svg);
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/К•©™4.svg);
     background-position: center;
     background-repeat: no-repeat;
 }
 .t-cnt__i a._whatsapp{
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/wa-icon.svg) !important;
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/wa-icon.svg) !important;
     background-position: center;
 } 
 .t-cnt__i a._discord{
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/d-icon.svg) !important;
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/d-icon.svg) !important;
     background-position: center;
 }
 .t-cnt__i a._skype{
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/s-icon.svg) !important;
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/s-icon.svg) !important;
     background-position: center;
 }
 .t-cnt__i a._mail{
-    background-image: url(/images2/mail-icon.svg) !important;
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/mail-icon.svg) !important;
     background-position: center;
 }

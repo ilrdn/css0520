@@ -309,3 +309,7 @@ a.top-blog, .h-desc{
     background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/mail-icon.svg) !important;
     background-position: center;
 }
+.hdr-reg{
+    flex-grow: 0;
+    width: 30px;
+}

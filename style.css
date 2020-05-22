@@ -238,7 +238,7 @@ a.top-blog, .h-desc{
     width: 100%;
 }
 .game-select.open .game-select__list{
-    color: #D5D9E0;
+    color: #D5D9E0 !important;
     border: 0;
 }
 .game-select.open .game-select__top, .game-select.open .game-select__list{

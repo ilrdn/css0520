@@ -310,6 +310,6 @@ a.top-blog, .h-desc{
     background-position: center;
 }
 .hdr-reg{
-    flex-grow: 0;
+    flex-grow: 0.5;
     width: 30px;
 }

@@ -266,3 +266,6 @@ a.top-blog, .h-desc{
 .game-select .game-select__top .game-select__item{
     background: unset;
 }
+.support{
+    display: inline-block;
+}

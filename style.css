@@ -261,7 +261,7 @@ a.top-blog, .h-desc{
     background-color: #1A1E21;
 }
 .game-select.open .game-select__top{
-    color: #039BE5;
+    color: #039BE5 !important;
 }
 .game-select .game-select__top .game-select__item{
     background: unset;

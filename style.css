@@ -87,7 +87,7 @@ a.top-blog, .h-desc{
     border-bottom: 1px solid #373D42;
 }
 .bg-page{
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/BG.svg) !important;
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/BG.svg) !important;
 }
 .wrapper, footer, .f-nav, .bottom-b1-wrap{
     background: rgba(26, 30, 33, 0.8) !important;
@@ -141,7 +141,7 @@ a.top-blog, .h-desc{
 }
 .h-cc{
     width: 260px;
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/logo.svg);
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/icons/logo.svg);
     background-repeat: no-repeat;
     background-position: 0px 7px;
 }
@@ -190,7 +190,7 @@ a.top-blog, .h-desc{
 .h-search{
     width: 24px;
     height: 24px;
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/search.svg);
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/icons/search.svg);
     margin-top: 29px;
     position: relative;
     cursor: pointer;
@@ -212,11 +212,11 @@ a.top-blog, .h-desc{
 .h-flag{
     width: 24px;
     height: 24px;
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/EU.svg);
+    background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/icons/EU.svg);
     margin-top: 29px;
 }
 .minicart._loaded {
-    background: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/img/icons/Cart.svg) 52px 11px no-repeat !important;
+    background: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/icons/Cart.svg) 52px 11px no-repeat !important;
 }
 .minicart .cart-count{
     background: #8E24AA;

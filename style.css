@@ -197,6 +197,14 @@ a.top-blog, .h-desc{
 .search-box{
     position: absolute;
 }
+.search-box input{
+    width: 253px;
+    height: 40px;
+    background: #202529;
+    border-radius: 38px;
+    outline: none;
+    color: white;
+    }
 .h-flag{
     width: 24px;
     height: 24px;

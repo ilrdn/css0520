@@ -260,7 +260,7 @@ a.top-blog, .h-desc{
 .game-select.open .game-select__top, .game-select.open .game-select__list{
     background-color: #1A1E21;
 }
-.game-select__top{
+.game-select__top .game-select__name{
     color: #039BE5 !important;
 }
 .game-select .game-select__top .game-select__item{

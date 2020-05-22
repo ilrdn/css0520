@@ -239,6 +239,7 @@ a.top-blog, .h-desc{
 }
 .game-select.open .game-select__list{
     color: #D5D9E0;
+    border: 0;
 }
 .game-select.open .game-select__top, .game-select.open .game-select__list{
     background-color: #1A1E21;

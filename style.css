@@ -306,6 +306,6 @@ a.top-blog, .h-desc{
     background-position: center;
 }
 .t-cnt__i a._mail{
-    background-image: url(http://dev.cakeboost.com/wp-content/themes/cake3/images/mail-icon.svg) !important;
+    background-image: url(/images2/mail-icon.svg) !important;
     background-position: center;
 }

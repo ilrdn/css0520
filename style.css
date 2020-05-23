@@ -240,6 +240,8 @@ a.top-blog, .h-desc{
     background: -webkit-gradient(linear, bottom, left top, from(#039BE5), to(#039BE5));
     background: -o-linear-gradient(bottom, #039BE5, #039BE5);
     background: linear-gradient(to bottom, #039BE5, #039BE5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
@@ -251,6 +253,8 @@ a.top-blog, .h-desc{
     background: -webkit-gradient(linear, bottom, left top, from(#039BE5), to(#039BE5));
     background: -o-linear-gradient(bottom, #039BE5, #039BE5);
     background: linear-gradient(to bottom, #039BE5, #039BE5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 ._description .container:nth-child(2){
     text-align: left;

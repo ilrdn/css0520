@@ -216,12 +216,13 @@ a.top-blog, .h-desc{
     margin-top: 29px;
 }
 .minicart._loaded {
-    background: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/icons/Cart.svg) 52px 11px no-repeat !important;
+    background: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/icons/Cart.svg) 82px 12px no-repeat !important;
 }
 .minicart .cart-count{
     background: #8E24AA;
     top: -10px;
     color: white;
+    transform: translateX(28px);
 }
 .minicart .amount {
     position: absolute;

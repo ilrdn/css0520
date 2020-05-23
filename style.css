@@ -371,6 +371,7 @@ a.top-blog, .h-desc{
     height: 368px;
     margin-top: 72px;
     background: linear-gradient(107.52deg, rgba(26, 30, 33, 0.8) 0%, rgba(55, 61, 66, 0.8) 100%);
+    margin-bottom: 24px;
 }
 
 .about-last-text {

@@ -256,8 +256,8 @@ a.top-blog, .h-desc{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-._description .container:nth-child(2){
-    text-align: left;
+._description{
+    text-align: left !important;
 }
 .reviews-all{
     display: none;

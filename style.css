@@ -252,6 +252,9 @@ a.top-blog, .h-desc{
     background: -o-linear-gradient(bottom, #039BE5, #039BE5);
     background: linear-gradient(to bottom, #039BE5, #039BE5);
 }
+._description .container:nth-child(2){
+    text-align: left;
+}
 .reviews-all{
     display: none;
 }

@@ -379,6 +379,10 @@ a.top-blog, .h-desc{
     height: 172px;
     margin-top: 72px;
 }
+.why-wrap{
+    display: flex;
+    justify-content: space-between;
+}
 .why {
     border-radius: 4px;
     width: 275px;
@@ -400,6 +404,10 @@ a.top-blog, .h-desc{
     background-image: url(../images2/img/icons/Path17.svg);
     background-position: center;
     background-repeat: no-repeat;
+}
+.heading-wrap{
+    display: flex;
+    justify-content: center;
 }
 .heading {
     display: flex;

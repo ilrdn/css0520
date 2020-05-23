@@ -236,13 +236,21 @@ a.top-blog, .h-desc{
     line-height: 140%;
 }
 .read-more-button{
-    color: #039BE5;
+    background: -webkit-linear-gradient(bottom, #039BE5, #039BE5);
+    background: -webkit-gradient(linear, bottom, left top, from(#039BE5), to(#039BE5));
+    background: -o-linear-gradient(bottom, #039BE5, #039BE5);
+    background: linear-gradient(to bottom, #039BE5, #039BE5);
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
     line-height: 140%;
-    text-align: left;
+}
+.read-more-button:hover{
+    background: -webkit-linear-gradient(bottom, #039BE5, #039BE5);
+    background: -webkit-gradient(linear, bottom, left top, from(#039BE5), to(#039BE5));
+    background: -o-linear-gradient(bottom, #039BE5, #039BE5);
+    background: linear-gradient(to bottom, #039BE5, #039BE5);
 }
 .reviews-all{
     display: none;

@@ -319,3 +319,11 @@ a.top-blog, .h-desc{
     height: 24px;
     transform: translateY(27px);
 }
+.owl-carousel._buttons .owl-nav .owl-next{
+    right: 0px;
+    background: url("/wp-content/themes/cake3/images2/arrow-r.png") center no-repeat;
+}
+.owl-carousel._buttons .owl-nav .owl-prev{
+    left: 0px;
+    background: url("/wp-content/themes/cake3/images2/arrow-l.png") center no-repeat;
+}

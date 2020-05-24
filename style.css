@@ -432,3 +432,52 @@ a.top-blog, .h-desc{
 .footer{
     padding-top: 24px;
 }
+.mp-2s{
+    background: #1A1E21;
+    border: 1px solid #373D42;
+    border-radius: 4px;
+    margin-top: 24px;
+    height: 320px;
+    background: linear-gradient(91.02deg, #1A1E21 0.24%, rgba(26, 30, 33, 0.5) 47.94%, rgba(26, 30, 33, 0) 99.78%);
+}
+.banner-text{
+    margin-top: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.banner-text h1{
+    color: #FB8C00;
+    margin: 0;
+}
+.banner-text h3{
+    color: white;
+}
+.banner-text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    color: #F2F4F8;
+}
+.banner-wrap{
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}
+.banner-btn{
+    width: 144px;
+    height: 30px;
+    background: #8E24AA;
+    border-radius: 8px;
+    cursor: pointer;
+    padding-top: 10px;
+}
+.banner-btn span{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btn-after{
+    margin-top: 10px;
+}

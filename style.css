@@ -187,12 +187,14 @@ a.top-blog, .h-desc{
     width: 2px;
     background-color: #373D42;
 }
+.search-wrap{
+    position: relative;
+}
 .h-search{
     width: 24px;
     height: 24px;
     background-image: url(https://cakeboost.com/wp-content/themes/cake3/images2/img/icons/search.svg);
     margin-top: 29px;
-    position: relative;
     cursor: pointer;
 }
 .search-box{
